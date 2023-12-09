@@ -1,7 +1,7 @@
-把zip文件解壓縮到安卓設備的/sdcard/tvbox/JS/目錄
-複製lib/tokentemplate.json成爲lib/tokenm.json，并填寫必要的内容
+# 把zip文件解壓縮到安卓設備的/sdcard/tvbox/JS/目錄
+# 複製lib/tokentemplate.json成爲lib/tokenm.json，并填寫必要的内容
 
-特別警告：據傳阿里要求使用者不得使用多綫程加速方式使用阿里云盤資源，若并發鏈接數超過10有可能導致被限制訪問或封禁帳號的處理，所以下方綫程限制設置超過10所需承擔的風險請使用者自行斟酌。
+# 特別警告：據傳阿里要求使用者不得使用多綫程加速方式使用阿里云盤資源，若并發鏈接數超過10有可能導致被限制訪問或封禁帳號的處理，所以下方綫程限制設置超過10所需承擔的風險請使用者自行斟酌。
 
 阿里云盤用戶使用阿里云盤APP升級到5.0以上(訪問www.alipan.com升級），可以把自己當作阿里云盤的VIP用戶。也可以嘗試使用alist
 openapi之外的其他第三方開發者提供的openapi接口來獲取解除限速的優待。黨使用其他第三方開發者的openapi接口時，修改配置文件中open_api_url的設置，要寫到他的完整地址，例如http://aliopenapi.test.com/access_token。並提前通過相應openapi提供方的網站獲取其專屬的opentoken（不可直接使用alist的opentoken）並填入open_token字段。

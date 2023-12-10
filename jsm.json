@@ -62,7 +62,7 @@
 				"cookie":""
 			}
 		},
-		{"key":"Wogg","name":"玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "ext":"./lib/tokenm.json$$$https://wogg.deno.dev/$$$null$$$1"},
+		{"key":"Wogg","name":"玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "ext":"./lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1"},
 		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "ext":"./lib/tokenm.json$$$null$$$1"},
 		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"./lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"},
 		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$null$$$1"},
@@ -86,6 +86,22 @@
 			"searchable": 1,
 			"changeable": 1,
 			"ext": "null$$$1"
+		},
+		{
+			"key": "河马",
+			"name": "河马┃App",
+			"type": 3,
+			"api": "csp_Hmys",
+			"playerType": 1,
+			"ext": "https://m.jmzp.net.cn$$$null$$$1"
+		},
+		{
+			"key": "天天",
+			"name": "天天┃App",
+			"type": 3,
+			"api": "csp_TTian",
+			"playerType": 1,
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
 		{
 			"key": "蝴蝶",
@@ -367,6 +383,16 @@
 		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
 		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alistjar.json"},
+		{
+			"key": "888解忧愁",
+			"name": "888解忧愁",
+			"type": 4,
+			"api": "https://private--t410.repl.co/888?",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0
+		},
 		{
 			"key": "酷酷",
 			"name": "💡酷酷┃App",
@@ -683,6 +709,13 @@
 			"changeable": 0
 		},
 		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
+		{
+			"key": "ext_live_protocol",
+			"name": "关注公众号“肥猫不肥”",
+			"type": 3,
+			"api": "http://alist.xn--z7x900a.love:63/协议.js",
+			"ext": "clan://proxy?sourcekey=ext_live_protocol"
+		},
 		{
 			"key":"MV_vod",
 			"name":"电视┃MTV",

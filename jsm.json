@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar",
+	"spider":"./pg.nogo.jar",
 	"sites":[
 		{
 			"key": "酷狗",
